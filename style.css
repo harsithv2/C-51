@@ -1,0 +1,19 @@
+
+
+h1{color:red}
+.header{
+    display:flex;
+    justify-content: space-between;
+    background-color: #abcfad;
+}
+h2,p{
+    text-align: center;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+body{
+    background-color: #a12d53;
+}
